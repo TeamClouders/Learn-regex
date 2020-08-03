@@ -18,3 +18,5 @@ let pssRegex = /^[a-zA-Z0-9]{6,8}$/g
 let result =  pssRegex.test(password);
 
 console.log(result); //false
+
+
